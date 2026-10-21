@@ -61,7 +61,7 @@
 
 ## 💻 Coding Profiles
 
-* GitHub: https://github.com/2702
+* GitHub: https://github.com/Ranjeet2702
 * LeetCode: https://leetcode.com/u/Ranjeet_Kumar1559/
 
 ---
